@@ -6,7 +6,7 @@ export const Roll = () => {
   return (
     <div className="py-12">
       <div className="relative w-full mx-auto">
-        <div className="mx-auto relative max-w-7xl">
+        <div className="mx-auto relative">
           {/* Video Overlay - now always dark */}
           <div className="absolute inset-0 bg-background/60 backdrop-blur-[2px] z-10" />
 
